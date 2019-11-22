@@ -1,0 +1,3 @@
+# predict_temperature
+numpyのscikit-learnを用いて重回帰分析を行うことで気温を予測する  
+データは気象庁のものを用い、奈良県に限定しておこなう
